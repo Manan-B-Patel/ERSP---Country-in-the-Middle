@@ -42,3 +42,4 @@ Coupled with our code analysis it is also really helpful to look at the Ases of 
 
 Below are a list of resources to help you understand how to utilize this repo and analyze traceroute measurements for different countries.
 - [Pandas Tutorial](https://github.com/dsc-courses/dsc10-2023-fa/blob/master/labs/lab01/lab01.ipynb)
+- We watched lecture vidoes from Stanford's CS144 - Introduction to Computer Networks class in order to gain a basic understanding of networking concepts
